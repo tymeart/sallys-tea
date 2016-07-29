@@ -16,6 +16,10 @@ body {
   justify-content: space-around;
 }
 
+a {
+  text-decoration: none;
+}
+
 h1 {
   text-align: center;
 }
@@ -24,7 +28,16 @@ li {
   list-style: none;
 }
 
-nav {
+nav,
+footer {
   background-color: lightgreen;
-  padding: 15px;
+  padding: 5px;
+}
+
+nav a {
+  padding: 10px 25px;
+}
+
+ul {
+  padding: 0;
 }
