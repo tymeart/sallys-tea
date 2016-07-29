@@ -38,6 +38,20 @@ nav a {
   padding: 10px 25px;
 }
 
+p,
+li,
+table {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+nav,
+footer {
+  font-family: 'Slabo 27px', serif;
+}
+
 ul {
   padding: 0;
 }
